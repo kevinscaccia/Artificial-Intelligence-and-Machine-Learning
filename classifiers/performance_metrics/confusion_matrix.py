@@ -1,7 +1,7 @@
 from sklearn import datasets
 import numpy as np
 import pandas
-from classifiers import knn  #or another classifier
+from classifiers.knn import knn
 
 ########################################
 # Load and organize data into different arrays
@@ -30,7 +30,7 @@ k = 3  # k nearest neighbors#
 
 # for each example in test data
 for i in range(0, len(test_data)):
-    predicted_class = knn.classify(test_data[i], train_data, train_target , k)
+    predicted_class = knn.classify(test_data[i], train_data, train_target, k)
     # confusion_matrix[actual][predicted]
     actual = test_target[i]
     predicted = predicted_class

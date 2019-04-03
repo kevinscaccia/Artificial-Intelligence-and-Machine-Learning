@@ -20,14 +20,15 @@ test_target = target[split_80:]
 ########################################
 # The KNN Classifier it-self
 ########################################
-from classifiers import knn
+from classifiers.knn import knn
+
 k = 3
 success = 0
 fail = 0
 
 # for each example in test data
 for i in range(0, len(test_data)):
-    clss = knn.classify(test_data[i], train_data, train_target , k)
+    clss = knn.classify(test_data[i], train_data, train_target, k)
     if clss == test_target[i]:
         success += 1
         print("Classified with success!!, its a {}".format(target_names[clss]))
