@@ -4,19 +4,19 @@ I hope to contribute  :smiley:
 
 ## Supervised Learning
 ### Classification 
--  K-nearest neighbors (KNN) [python](classifiers/knn)
--  Naive Bayes for Twitter classification
+-  K-nearest neighbors (KNN) [python](supervised_learning/classifiers/knn)
+-  Naive Bayes for Twitter classification [python](supervised_learning/classifiers/naive-bayes)
 ### Regression 
--  Linear Regression
+-  Linear Regression (TO DO)
 ### Artificial Neural Networks
-- MLP and Simple Perceptron  
-- Multilayer Perceptron
-- Long Short-Term Memory Network (LSTM)
+- MLP and Simple Perceptron (TO DO)
+- Multilayer Perceptron (TO DO)
+- Long Short-Term Memory Network (LSTM) (TO DO)
 ### Genetic Algorithms
-
+- TO DO
 
 ## Unsupervised Learning
-- TODO
+- TO DO
 ## Other
-
+- TO DO
 
