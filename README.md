@@ -17,6 +17,5 @@ I hope to contribute  :smiley:
 
 ## Unsupervised Learning
 - TO DO
-## Other
-- TO DO
-
+## Other Implementations
+-  8 Puzzle Problem Solver (Hill Climbing & Simulated Annealing) [python](other/8_puzzle_solver/)
