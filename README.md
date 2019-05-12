@@ -4,7 +4,7 @@ I hope to contribute  :smiley:
 
 ## Supervised Learning
 ### Classification 
--  K-nearest neighbors (KNN) [python](tree/master/classifiers/knn)
+-  K-nearest neighbors (KNN) [python](classifiers/knn)
 -  Naive Bayes for Twitter classification
 ### Regression 
 -  Linear Regression
