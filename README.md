@@ -9,8 +9,8 @@ I hope to contribute  :smiley:
 ### Regression 
 -  Linear Regression (TO DO)
 ### Artificial Neural Networks
-- MLP and Simple Perceptron (TO DO)
-- Multilayer Perceptron (TO DO)
+- Simple Perceptron - from scratch [python](neural_networks/Simple_Perceptron.ipynb)
+- Multilayer Perceptron - from scratch [python](neural_networks/Multilayer_Perceptron.ipynb)
 - Long Short-Term Memory Network (LSTM) (TO DO)
 ### Genetic Algorithms
 - TO DO
