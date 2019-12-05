@@ -9,12 +9,12 @@ I hope to contribute  :smiley:
 ### Regression 
 -  Linear Regression (TO DO)
 ### Artificial Neural Networks
-- Simple Perceptron - from scratch [python](neural_networks/Simple_Perceptron.ipynb)
-- Multilayer Perceptron - from scratch [python](neural_networks/Multilayer_Perceptron.ipynb)
+- Simple Perceptron - from scratch [python](neural_networks/Perceptron/Perceptron.ipynb)
+- Multilayer Perceptron - from scratch (TO DO)
+- Self Organizing Map (SOM Network) - from scratch [python](neural_networks/SOM_Network/SOM_Network.ipynb)
 - Long Short-Term Memory Network (LSTM) (TO DO)
 ### Genetic Algorithms
 - TO DO
-
 ## Unsupervised Learning
 - TO DO
 ## Other Implementations
