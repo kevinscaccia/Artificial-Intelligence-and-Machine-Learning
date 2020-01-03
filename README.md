@@ -5,8 +5,8 @@ I hope to contribute  :smiley:
 
 ## Supervised Learning
 ### Classification 
--  K-nearest neighbors - from scratch (KNN) [python](supervised_learning/classifiers/knn)
--  Naive Bayes for Twitter classification - from scratch[python](supervised_learning/classifiers/naive_bayes)
+-  K-nearest neighbors (KNN) - from scratch [python](supervised_learning/classifiers/knn)
+-  Naive Bayes for Twitter classification - from scratch [python](supervised_learning/classifiers/naive_bayes)
 ### Regression 
 -  Linear Regression (TO DO)
 ### Artificial Neural Networks
