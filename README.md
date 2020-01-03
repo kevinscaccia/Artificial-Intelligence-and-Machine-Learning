@@ -5,13 +5,13 @@ I hope to contribute  :smiley:
 ## Algorithms from Scratch
 ### Supervised Learning  
 #### Classification 
--  K-nearest neighbors (KNN) - [python](supervised_learning/classifiers/knn)
--  Naive Bayes for Twitter classification - [python](supervised_learning/classifiers/naive_bayes)
+-  K-nearest neighbors (KNN) - [python](from_scratch/supervised_learning/classifiers/knn)
+-  Naive Bayes for Twitter classification - [python](from_scratch/supervised_learning/classifiers/naive_bayes)
 #### Artificial Neural Networks
-- Simple Perceptron - [python](neural_networks/Perceptron/Perceptron.ipynb)
-- Self Organizing Map (SOM Network) - [python](neural_networks/SOM_Network/SOM_Network.ipynb)
+- Simple Perceptron - [python](from_scratch/neural_networks/Perceptron/Perceptron.ipynb)
+- Self Organizing Map (SOM Network) - [python](from_scratch/neural_networks/SOM_Network/SOM_Network.ipynb)
 ## Deep Learning With Keras
-### Classification
+- Dense Image-Denoise Autoencoder [python](deep_learning/denoise_autoencoder/ImageDenoise_Autoencoder.ipynb)
 
 ## Other Implementations
 -  8-Puzzle Problem solver (Hill Climbing & Simulated Annealing) - from scratch [python](other/8_puzzle_problem/)
